@@ -114,7 +114,7 @@ Avec COMx, x est le numéro du port COM
 ## Logiciel
 ### Installation
 - Télécharger et installer STM32CubeProgrammer software for Win64 (STM32CubePrg-W64) :
-- 
+
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 ### Mise à jour
