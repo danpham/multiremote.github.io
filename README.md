@@ -7,7 +7,7 @@ Project MutliRemote
 
 ----------------------------------
 
-# Installation d'une mise à jour(#installation)
+# Installation d'une mise à jour(#Pages)
 
 
 ## Introduction
