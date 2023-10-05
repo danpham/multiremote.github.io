@@ -14,28 +14,9 @@ Project MutliRemote
 
 
 ## MultiRemote LCD
-dsfdsf
-dsfs
-fs
-f
-sdfs
-dsfdsf
-dsfs
-fs
-f
-sdfs
-dsfdsf
-dsfs
-fs
-f
-sdfs
+
 ## MultiRemote STM32
 
-dsfdsf
-dsfs
-fs
-f
-sdfs
 # MultiRemote ESP32
 ## Matériel
 - Adaptateur USB To Uart 5V/3V3
@@ -50,18 +31,33 @@ sdfs
 Télécharger et installer Python:
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
-Sur Windows, ouvrir une ligne de commande puis taper :
-```
-pip install esptool
-```
-
 ### Mise à jour
-Rechercher le port de la liaison série de l'Adaptateur USB To Uart.
-Sur Windows, aller dans Gestionnaire de périphériques puis identifier le port COMx du périphériques USB-SERIAL CH340.
 
-![image](https://github.com/danpham/multiremote.github.io/assets/150057/b8b4b2e0-54bc-4c9d-9046-6af552cdf695)
 
 Sur Windows, ouvrir une ligne de commande puis taper :
 ```
 esptool.py --baud 115200 --port COMx write_flash 0x0 multiremote_esp32_v1_0_0.bin
 ```
+
+
+# MultiRemote ESP32
+## Matériel
+- Sonde STLINK-V3SET
+- Câble USB-A vers USB-micro
+
+## Installation
+
+- Connecter le câble USB-A vers USB-micro au PC et sur l'adaptateur.
+  
+## Logiciel
+### Installation
+Télécharger et installer STM32CubeProgrammer software for Win64 (STM32CubePrg-W64) :
+https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
+
+### Mise à jour
+Ouvrir STM32CubeProgrammer et cliquer sur '+' puis Open file, selectionez le fichier 'ESP32_MR.bin'
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/81b6a269-3c49-45da-b97a-1f2f2f7a5482)
+
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/62696fd0-7769-4b37-be79-dd7e2a42c86e)
+
+
