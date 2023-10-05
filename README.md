@@ -11,6 +11,18 @@ Project MutliRemote
 
 ## Paquetage
 
+- Le paquetage MultiRemote est composé de 3 logiciels, chacun étant destiné à un microcontrôleur présent sur la carte.
+Le paquetage est distribué sous forme de fichier .zip de mise à jour avec le nom type suivant: update_multiremote_vXX_YY_ZZ
+XX correspond au numéro de version majeur, YY correspond au numéro de version mineur et ZZ au correctif.
+Les fichiers de mise à jour adoptent également le même formatage du numéro de version mais ces derniers peuvent avoir une version différente.
+
+- lcd_vXX_YY_ZZ.bin
+- stm32_vAA_BB_CC.bin
+- esp32_vDD_EE_FF.bin
+
+## Compatibilité
+
+Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garantie et il faudra de fait réaliser les 3 mise à jour à la fois. 
 
 ## MultiRemote LCD
 ## Matériel
@@ -19,6 +31,26 @@ Project MutliRemote
  <img src="https://github.com/danpham/multiremote.github.io/assets/150057/2bcfe4c3-3da6-427e-b7b0-c590c5b72949" height="150"> 
 
 - Câble USB-A vers USB-micro
+
+## Installation
+- Connecter le connecteur de la sonde I-Jet sur le carte de l'écran LCD.
+- Connecter le câble USB-A vers USB-micro au PC et sur la sonde I-Jet.
+
+## Logiciel
+### Installation
+- Installer le logiciel IAR Embedded Workbench for ARM 8.40.1 en cliquant sur EWARM-CD-8401-21539.exe.
+- Installer GitHub Desktop : https://desktop.github.com
+- Télécharger les sources du projet ESP32 avec GitHub Desktop : https://github.com/VNSA-SA/MultiRemoteEsp32/
+
+### Mise à jour
+
+- Dans IAR Embedded Workbench, cliquer dans File > Open workspace et charger le fichier workspace.eww :
+
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/03e2711e-892d-447b-b036-77f98dd7c4e9)
+
+- Cliquer sur download and debug (Ctrl + D) pour charger le logiciel.
+
+- Redémarrer la carte pour terminer la mise à jour.
 
 # MultiRemote ESP32
 ## Matériel
