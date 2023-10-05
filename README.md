@@ -24,7 +24,7 @@ Les fichiers de mise à jour adoptent également le même formatage du numéro d
 
 ## Compatibilité
 
-Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garantie et il faudra de fait réaliser les 3 mise à jour à la fois. 
+Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garantie et il faudra de fait réaliser les 3 mises à jour à la fois. 
 
 ## MultiRemote LCD
 ## Matériel
@@ -35,8 +35,11 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 - Câble USB-A vers USB-micro
 
 ## Installation
-- Connecter le connecteur de la sonde I-Jet sur le carte de l'écran LCD.
+
 - Connecter le câble USB-A vers USB-micro au PC et sur la sonde I-Jet.
+- Connecter le connecteur de la sonde I-Jet sur le carte de l'écran LCD comme sur la photo suivante :
+
+ <img src="https://github.com/danpham/multiremote.github.io/assets/150057/22f12152-891c-4359-b589-a979c196d681" height="250">
 
 ## Logiciel
 ### Installation
@@ -58,14 +61,18 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 ## Matériel
 - Adaptateur USB To Uart 5V/3V3 - [Lien constructeur](https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html)
 
- <img src="https://github.com/danpham/multiremote.github.io/assets/150057/272ed481-d523-4bfe-a593-5da377d763d0" height="150"> 
+
 
 - Câble USB-A vers USB-micro
 
 ## Installation
+
 - Positionner le micro-switch de Adaptateur USB To Uart 5V/3V3 sur 3V3.
 - Connecter le câble USB-A vers USB-micro au PC et sur l'adaptateur.
-  
+- Positionner l'Adaptateur USB To Uart 5V/3V3 comme sur la photo suivante :
+
+ <img src="https://github.com/danpham/multiremote.github.io/assets/150057/b62c87e7-b583-4d56-9f39-a2bd80fe5a8e" height="250">
+
 ## Logiciel
 ### Installation
 - Télécharger et installer Python :
@@ -100,6 +107,9 @@ Avec COMx, x est le numéro du port COM
 ## Installation
 
 - Connecter le câble USB-A vers USB-micro au PC et sur l'adaptateur.
+- Positionner le connecteur de la sonde STLINK comme sur la photo suivante :
+
+ <img src="https://github.com/danpham/multiremote.github.io/assets/150057/8e5292db-180a-4110-b609-2cc6d314c2c8" height="250">
   
 ## Logiciel
 ### Installation
