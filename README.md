@@ -32,6 +32,7 @@ https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
 ### Mise à jour
 - Déterminer le port COMx correspondant à l'adapteur Adaptateur USB To Uart en ouvrant le 'Gestionnaire de périphériques' Windows.
+
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/038936b2-5daa-4afe-b7f6-6eaf2739dc59)
 
 - Ouvrir une ligne de commande puis taper :
