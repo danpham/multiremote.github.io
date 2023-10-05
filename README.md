@@ -31,12 +31,19 @@ Project MutliRemote
 
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
+- Ouvrir la ligne de commande Windows et installer esptool :
+
+```
+pip install esptool
+```
+
 ### Mise à jour
 - Déterminer le port COMx correspondant à l'adapteur Adaptateur USB To Uart en ouvrant le 'Gestionnaire de périphériques' Windows.
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/038936b2-5daa-4afe-b7f6-6eaf2739dc59)
 
 - Ouvrir une ligne de commande puis taper :
+
 ```
 esptool.py --baud 115200 --port COMx write_flash 0x0 multiremote_esp32_v1_0_0.bin
 ```
