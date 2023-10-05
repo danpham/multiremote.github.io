@@ -50,15 +50,15 @@ esptool.py --baud 115200 --port COMx write_flash 0x0 multiremote_esp32_v1_0_0.bi
   
 ## Logiciel
 ### Installation
-Télécharger et installer STM32CubeProgrammer software for Win64 (STM32CubePrg-W64) :
+- Télécharger et installer STM32CubeProgrammer software for Win64 (STM32CubePrg-W64) :
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 ### Mise à jour
-Ouvrir STM32CubeProgrammer et cliquer sur '+' puis Open file, selectionez le fichier 'ESP32_MR.bin' :
+- Ouvrir STM32CubeProgrammer et cliquer sur '+' puis Open file, selectionez le fichier 'ESP32_MR.bin' :
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/81b6a269-3c49-45da-b97a-1f2f2f7a5482)
 
-Cliquer sur 'Download' :
+- Cliquer sur 'Download' :
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/50e1a85b-c25f-4a17-ae54-6b273bafdf93)
 
-
+- Redémarrer la carte pour terminer la mise à jour.
 
