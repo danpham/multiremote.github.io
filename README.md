@@ -2,8 +2,7 @@ Project MutliRemote
 =============================
 
 # Pages
-- [Installation d'une mise à jour](#installation)
-- [Installation d'une mise à jour](#Link)
+- Installation d'une mise à jour
 
 ----------------------------------
 
@@ -58,6 +57,8 @@ https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 Ouvrir STM32CubeProgrammer et cliquer sur '+' puis Open file, selectionez le fichier 'ESP32_MR.bin'
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/81b6a269-3c49-45da-b97a-1f2f2f7a5482)
 
-![image](https://github.com/danpham/multiremote.github.io/assets/150057/62696fd0-7769-4b37-be79-dd7e2a42c86e)
+Cliquer sur 'Download' :
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/50e1a85b-c25f-4a17-ae54-6b273bafdf93)
+
 
 
