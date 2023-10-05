@@ -27,7 +27,8 @@ Project MutliRemote
   
 ## Logiciel
 ### Installation
-- Télécharger et installer Python:
+- Télécharger et installer Python :
+
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
 ### Mise à jour
