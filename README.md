@@ -13,7 +13,9 @@ Project MutliRemote
 
 - Le paquetage MultiRemote est composé de 3 logiciels, chacun étant destiné à un microcontrôleur présent sur la carte.
 Le paquetage est distribué sous forme de fichier .zip de mise à jour avec le nom type suivant: update_multiremote_vXX_YY_ZZ
+
 XX correspond au numéro de version majeur, YY correspond au numéro de version mineur et ZZ au correctif.
+
 Les fichiers de mise à jour adoptent également le même formatage du numéro de version mais ces derniers peuvent avoir une version différente.
 
 - lcd_vXX_YY_ZZ.bin
