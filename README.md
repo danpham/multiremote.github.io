@@ -13,12 +13,19 @@ Project MutliRemote
 
 
 ## MultiRemote LCD
+## Matériel
+- Sonde IAR Systems I-Jet - [Lien constructeur](https://www.iar.com/ijet)
 
-## MultiRemote STM32
+ <img src="https://github.com/danpham/multiremote.github.io/assets/150057/2bcfe4c3-3da6-427e-b7b0-c590c5b72949" height="150"> 
+
+- Câble USB-A vers USB-micro
 
 # MultiRemote ESP32
 ## Matériel
-- Adaptateur USB To Uart 5V/3V3
+- Adaptateur USB To Uart 5V/3V3 - [Lien constructeur](https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html)
+
+ <img src="https://github.com/danpham/multiremote.github.io/assets/150057/272ed481-d523-4bfe-a593-5da377d763d0" height="150"> 
+
 - Câble USB-A vers USB-micro
 
 ## Installation
