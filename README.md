@@ -47,7 +47,10 @@ sdfs
   
 ## Logiciel
 ### Installation
-Il vous faudra installer Python:
+Télécharger et installer Python:
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
-
+Sur Windows, ouvrir une ligne de commande puis taper:
+```
+pip install esptool
+```
