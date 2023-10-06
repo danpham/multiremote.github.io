@@ -137,5 +137,7 @@ La configuration suivante peut être adoptée à titre indicatif :
 
 ## Configuration sous UaExpert :
 
+Dans UaExpert, cliquer sur Settings > Configure UaExpert... :
+
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/ce4ba80b-108b-4f16-878f-c8e69aea1ff8)
 
