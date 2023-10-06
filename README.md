@@ -1,13 +1,13 @@
-Project MultiRemote
+Projet MultiRemote
 =============================
 
 # Pages
 - Installation d'une mise à jour
+- Paramètrage des clients Opcua
 
 ----------------------------------
 
 # Installation
-
 
 ## Paquetage
 
@@ -129,4 +129,14 @@ https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/50e1a85b-c25f-4a17-ae54-6b273bafdf93)
 
 - Redémarrer la carte pour terminer la mise à jour.
+
+# Paramètrage des clients Opcua
+
+A noter qu’une configuration des clients Opcua avec des timeout faibles permet de libérer plus rapidement les sessions dans le cas d’une coupure brutale du réseau (arrachage du câble réseau ou fermeture du client Opcua sans les signaux de terminaison de connexion TCP). 
+
+La configuration suivante peut être adoptée à titre indicatif :
+-	Configuration clients Opcua:
+o	Timeout Secure channel: 10 minutes
+o	Timeout Session: 1 minute
+
 
