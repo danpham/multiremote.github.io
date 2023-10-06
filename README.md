@@ -135,7 +135,7 @@ La configuration suivante peut être adoptée à titre indicatif :
 - Timeout Secure channel: 10 minutes
 - Timeout Session: 1 minute
 
-## Configuration sous UaExpert :
+## Configuration sous UaExpert
 
 Dans UaExpert, cliquer sur Settings > Configure UaExpert... :
 
