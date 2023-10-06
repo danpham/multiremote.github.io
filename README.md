@@ -28,7 +28,7 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 ## MultiRemote LCD
 ## Matériel
-- Sonde IAR Systems I-Jet - [Lien constructeur](https://www.iar.com/ijet)
+- Sonde *IAR Systems I-Jet* - [Lien constructeur](https://www.iar.com/ijet)
 
  <img src="https://github.com/danpham/multiremote.github.io/assets/150057/2bcfe4c3-3da6-427e-b7b0-c590c5b72949" height="150"> 
 
@@ -43,13 +43,13 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 ## Logiciel
 ### Installation
-- Installer le logiciel IAR Embedded Workbench for ARM 8.40.1 en cliquant sur EWARM-CD-8401-21539.exe.
+- Installer le logiciel *IAR Embedded Workbench for ARM 8.40.1* en cliquant sur *EWARM-CD-8401-21539.exe*.
 - Installer GitHub Desktop : https://desktop.github.com
 - Télécharger les sources du projet ESP32 avec GitHub Desktop : https://github.com/VNSA-SA/MultiRemoteEsp32/
 
 ### Mise à jour
 
-- Dans IAR Embedded Workbench, cliquer dans File > Open workspace et charger le fichier workspace.eww :
+- Dans *IAR Embedded Workbench*, cliquer dans File > Open workspace et charger le fichier workspace.eww :
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/03e2711e-892d-447b-b036-77f98dd7c4e9)
 
@@ -60,9 +60,6 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 # MultiRemote ESP32
 ## Matériel
 - Adaptateur USB To Uart 5V/3V3 - [Lien constructeur](https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html)
-
-
-
 - Câble USB-A vers USB-micro
 
 ## Installation
@@ -75,7 +72,7 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 ## Logiciel
 ### Installation
-- Télécharger et installer Python :
+- Télécharger et installer *Python* :
 
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
 
@@ -101,7 +98,7 @@ Avec COMx, x est le numéro du port COM
 
 # MultiRemote STM32
 ## Matériel
-- Sonde STLINK-V3SET
+- Sonde *STLINK-V3SET*
 - Câble USB-A vers USB-micro
 
 ## Installation
@@ -118,9 +115,9 @@ Avec COMx, x est le numéro du port COM
 https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 ### Mise à jour
-- Ouvrir STM32CubeProgrammer et cliquer sur 'Connect'.
+- Ouvrir STM32CubeProgrammer et cliquer sur *Connect*.
 
-- Ensuite, cliquer sur '+' puis Open file, selectionnez le fichier 'multiremote_stm32_vAA_BB_CC.bin' :
+- Ensuite, cliquer sur *+* puis *Open file*, selectionnez le fichier 'multiremote_stm32_vAA_BB_CC.bin' :
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/81b6a269-3c49-45da-b97a-1f2f2f7a5482)
 
