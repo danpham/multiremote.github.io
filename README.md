@@ -132,11 +132,10 @@ https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 
 # Paramètrage des clients Opcua
 
-A noter qu’une configuration des clients Opcua avec des timeout faibles permet de libérer plus rapidement les sessions dans le cas d’une coupure brutale du réseau (arrachage du câble réseau ou fermeture du client Opcua sans les signaux de terminaison de connexion TCP). 
+A noter qu’une configuration des clients Opcua avec des timeout faibles permet de libérer plus rapidement les sessions dans le cas d’une coupure brutale du réseau (arrachage du câble réseau ou fermeture du client Opcua sans les signaux de terminaison de connexion TCP).
 
 La configuration suivante peut être adoptée à titre indicatif :
--	Configuration clients Opcua:
-o	Timeout Secure channel: 10 minutes
-o	Timeout Session: 1 minute
+- Timeout Secure channel: 10 minutes
+- Timeout Session: 1 minute
 
 
