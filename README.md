@@ -18,7 +18,7 @@ XX correspond au numéro de version majeur, YY correspond au numéro de version 
 
 Les fichiers de mise à jour adoptent également le même formatage du numéro de version mais ces derniers peuvent avoir une version différente.
 
-- multiremote_lcd_vXX_YY_ZZ.bin
+- multiremote_lcd_vXX_YY_ZZ.out
 - multiremote_stm32_vAA_BB_CC.bin
 - multiremote_esp32_vDD_EE_FF.bin
 
@@ -44,16 +44,17 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 ## Logiciel
 ### Installation
 - Installer le logiciel *IAR Embedded Workbench for ARM 8.40.1* en cliquant sur *EWARM-CD-8401-21539.exe*.
-- Installer GitHub Desktop : https://desktop.github.com
-- Télécharger les sources du projet ESP32 avec GitHub Desktop : https://github.com/VNSA-SA/MultiRemoteEsp32/
+- Télécharger le projet *MultiRemoteLCD_flasher*
 
 ### Mise à jour
 
-- Dans *IAR Embedded Workbench*, cliquer dans File > Open workspace et charger le fichier workspace.eww :
+- Dans *IAR Embedded Workbench*, cliquer dans File > Open workspace et charger le fichier workspace.eww du projet *MultiRemoteLCD_flasher* :
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/03e2711e-892d-447b-b036-77f98dd7c4e9)
 
-- Cliquer sur download and debug (Ctrl + D) pour charger le logiciel.
+- Cliquer sur Project > Download > Download file puis sélectionnez multiremote_lcd_vXX_YY_ZZ.out.
+
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/47cfe30d-d2a5-4ae8-bad2-46fa5713683c)
 
 - Redémarrer la carte pour terminer la mise à jour.
 
