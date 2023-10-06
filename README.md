@@ -56,7 +56,7 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/47cfe30d-d2a5-4ae8-bad2-46fa5713683c)
 
-- Redémarrer la carte pour terminer la mise à jour.
+- Redémarrer l'écran LCD pour terminer la mise à jour.
 
 # MultiRemote ESP32
 ## Matériel
