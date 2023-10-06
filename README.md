@@ -50,7 +50,7 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 - Dans *IAR Embedded Workbench*, cliquer dans File > Open workspace et charger le fichier workspace.eww du projet *MultiRemoteLCD_flasher* :
 
-![image](https://github.com/danpham/multiremote.github.io/assets/150057/03e2711e-892d-447b-b036-77f98dd7c4e9)
+![image](https://github.com/danpham/multiremote.github.io/assets/150057/4b37c429-f60c-49bb-b800-81d84a1bcac6)
 
 - Cliquer sur Project > Download > Download file puis sélectionnez multiremote_lcd_vXX_YY_ZZ.out.
 
