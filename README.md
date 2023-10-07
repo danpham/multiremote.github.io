@@ -121,11 +121,11 @@ https://www.st.com/en/development-tools/stm32cubeprog.html#get-software
 ### Mise à jour
 - Ouvrir STM32CubeProgrammer et cliquer sur *Connect*.
 
-- Ensuite, cliquer sur *+* puis *Open file*, selectionnez le fichier 'multiremote_stm32_vAA_BB_CC.bin' :
+- Ensuite, cliquer sur *+* puis *Open file*, selectionnez le fichier *multiremote_stm32_vAA_BB_CC.bin* :
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/81b6a269-3c49-45da-b97a-1f2f2f7a5482)
 
-- Cliquer sur 'Download' :
+- Cliquer sur *Download* :
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/50e1a85b-c25f-4a17-ae54-6b273bafdf93)
 
