@@ -86,7 +86,7 @@ pip install esptool
 ```
 
 ### Mise à jour
-- Déterminer le port COMx correspondant à l'adapteur Adaptateur USB To Uart en ouvrant le 'Gestionnaire de périphériques' Windows.
+- Déterminer le port COMx correspondant à l'Adaptateur USB To Uart en ouvrant le *Gestionnaire de périphériques* Windows.
 
 ![image](https://github.com/danpham/multiremote.github.io/assets/150057/038936b2-5daa-4afe-b7f6-6eaf2739dc59)
 
