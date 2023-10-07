@@ -28,13 +28,14 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 ## MultiRemote LCD
 ## Matériel
+### Liste du matériel
 - Sonde *IAR Systems I-Jet* - [Lien constructeur](https://www.iar.com/ijet)
 
  <img src="https://github.com/danpham/multiremote.github.io/assets/150057/2bcfe4c3-3da6-427e-b7b0-c590c5b72949" height="150"> 
 
 - Câble USB-A vers USB-micro
 
-## Installation
+### Installation
 
 - Connecter le câble USB-A vers USB-micro au PC et sur la sonde I-Jet.
 - Connecter le connecteur de la sonde I-Jet sur le carte de l'écran LCD comme sur la photo suivante :
@@ -60,10 +61,11 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 
 # MultiRemote ESP32
 ## Matériel
+### Liste du matériel
 - Adaptateur USB To Uart 5V/3V3 - [Lien constructeur](https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html)
 - Câble USB-A vers USB-micro
 
-## Installation
+### Installation
 
 - Positionner le micro-switch de Adaptateur USB To Uart 5V/3V3 sur 3V3.
 - Connecter le câble USB-A vers USB-micro au PC et sur l'adaptateur.
@@ -99,10 +101,11 @@ Avec COMx, x est le numéro du port COM
 
 # MultiRemote STM32
 ## Matériel
+### Liste du matériel
 - Sonde *STLINK-V3SET*
 - Câble USB-A vers USB-micro
 
-## Installation
+### Installation
 
 - Connecter le câble USB-A vers USB-micro au PC et sur l'adaptateur.
 - Positionner le connecteur de la sonde STLINK comme sur la photo suivante :
