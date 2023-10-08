@@ -18,9 +18,9 @@ XX correspond au numéro de version majeur, YY correspond au numéro de version 
 
 Les fichiers de mise à jour adoptent également le même formatage du numéro de version mais ces derniers peuvent avoir une version différente.
 
-- multiremote_lcd_vXX_YY_ZZ.out
-- multiremote_stm32_vAA_BB_CC.bin
-- multiremote_esp32_vDD_EE_FF.bin
+- multiremote_lcd_vAA_BB_CC.out
+- multiremote_stm32_vDD_EE_FF.bin
+- multiremote_esp32_vGG_HH_II.bin
 
 ## Compatibilité
 
