@@ -22,6 +22,11 @@ Les fichiers de mise à jour adoptent également le même formatage du numéro d
 
 Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garantie et il faudra de fait réaliser les 3 mises à jour à la fois.
 
+### Noms des releases
+
+Inspirés de noms d'horlogers célèbres : 
+https://www.hautehorlogerie.org/fr/watches-and-culture/encyclopedie/horlogers-celebres/
+
 # Historique de version
 ## Paquetages
 |Version du paquetage | Version ESP32 | Version STM32 | Version LCD |
