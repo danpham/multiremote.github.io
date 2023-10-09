@@ -32,14 +32,14 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 ## ESP32
 v01.01.00:
  - Prise en compte du mode setup opérateur même si le MultiRemote vient de redémarrer.
- - Correction de la fuite mémoire sur le serveur opcua, lorsqu'une connection se termine anormalement ou que le câble réseau est débranché.
+ - Correction de la fuite mémoire sur le serveur opcua, lorsqu'une connexion se termine anormalement ou que le câble réseau est débranché.
  - Affichage de l'heure de démarrage correcte dans les données du serveur opcua.
    
 ## STM32
 v01.01.00:
- - Ajout du mode échantillonage, continu, détection des nouvelles barres.
+ - Ajout du mode échantillonnage, continu, détection des nouvelles barres.
  - Correction du calcul de la moyenne glissante pour les statistiques des pièces.
- - Corrections pour enregidtrer le temps de setup opérateur.
+ - Corrections pour enregistrer le temps de setup opérateur.
 
 ## LCD
 v01.01.00:
