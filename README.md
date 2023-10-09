@@ -1,4 +1,4 @@
-Projet MultiRemote
+Mise à jour du MultiRemote
 =============================
 
 # Pages
