@@ -8,24 +8,6 @@ Projet MultiRemote
 ----------------------------------
 
 # Installation
-
-## Paquetage
-
-- Le paquetage MultiRemote est composé de 3 logiciels, chacun étant destiné à un microcontrôleur présent sur la carte.
-Le paquetage est distribué sous forme de fichier .zip de mise à jour avec le nom type suivant: update_multiremote_vXX_YY_ZZ
-
-XX correspond au numéro de version majeur, YY correspond au numéro de version mineur et ZZ au correctif.
-
-Les fichiers de mise à jour adoptent également le même formatage du numéro de version mais ces derniers peuvent avoir une version différente.
-
-- multiremote_lcd_vAA_BB_CC.out
-- multiremote_stm32_vDD_EE_FF.bin
-- multiremote_esp32_vGG_HH_II.bin
-
-## Compatibilité
-
-Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garantie et il faudra de fait réaliser les 3 mises à jour à la fois. 
-
 ## MultiRemote LCD
 ## Matériel
 ### Liste du matériel
