@@ -29,9 +29,9 @@ https://www.hautehorlogerie.org/fr/watches-and-culture/encyclopedie/horlogers-ce
 
 # Historique de version
 ## Paquetages
-|Version du paquetage | Version ESP32 | Version STM32 | Version LCD |
-|---|---|---|---|
-|v01.01.00| v01.01.00| v01.01.00|v01.01.00|
+|Version du paquetage | Version du paquetage | Version ESP32 | Version STM32 | Version LCD |
+|---|---|---|---|---|
+|Copernic|v01.01.00| v01.01.00| v01.01.00|v01.01.00|
 
 
 ## ESP32
