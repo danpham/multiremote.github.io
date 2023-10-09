@@ -30,3 +30,8 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 ## STM32
 
 ## LCD
+v01.01.00:
+- Mode Continu ajouté pour le nombrage du carrousel.
+- Enregistrement et lecture des temps de setup opérateur sur la carte SD corrigé.
+- Affichage de la date et l'heure avec les secondes.
+- Gestion de l'heure d'été / heure d'hiver.
