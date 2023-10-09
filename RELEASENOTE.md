@@ -33,5 +33,5 @@ Au sein d'un même paquetage, la compatibilité entre les 3 logiciels est garant
 v01.01.00:
 - Mode Continu ajouté pour le nombrage du carrousel.
 - Enregistrement et lecture des temps de setup opérateur sur la carte SD corrigé.
-- Affichage de la date et l'heure avec les secondes.
+- Affichage de l'heure avec les secondes sur l'écran principal.
 - Gestion de l'heure d'été / heure d'hiver.
