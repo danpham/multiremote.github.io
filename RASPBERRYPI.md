@@ -55,7 +55,6 @@ sudo apt install isc-dhcp-server
 ```
 ### Configuration
 Fichier : nano /etc/dhcp/dhcpd.conf
-
 ```
 default-lease-time 86400; # Bail de 24H
 max-lease-time 172800; # Bail maxi de 48H
@@ -65,4 +64,10 @@ subnet 192.168.0.0 netmask 255.255.255.0 {
         option domain-name-servers      8.8.8.8; # DNS
         option routers                  192.168.0.10; # Passerelle
 }
+```
+
+## Configuration adresses en IPv4
+Dans le fichier /etc/sysctl.d/local.conf ajouter la ligne suivante :
+```
+net.ipv6.conf.all.disable_ipv6=1
 ```
