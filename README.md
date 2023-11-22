@@ -75,7 +75,7 @@ pip install esptool
 - Ouvrir une ligne de commande puis taper :
 
 ```
-esptool.py --baud 115200 --port COMx write_flash 0x0 multiremote_esp32_vDD_EE_FF.bin
+esptool.py -p COM6 -b 460800 --before default_reset --after hard_reset --chip esp32 write_flash --flash_mode dio --flash_freq 40m --flash_size 4MB 0x8000 partition-table.bin 0x1000 bootloader.bin 0x10000 multiremote_esp32_vDD_EE_FF.bin
 ```
 Avec COMx, x est le numéro du port COM
 
