@@ -36,6 +36,9 @@ https://www.hautehorlogerie.org/fr/watches-and-culture/encyclopedie/horlogers-ce
 
 
 ## ESP32
+*v01.01.01*
+ - Corrige la taille incorrecte du buffer stockant le hostname.
+ - Déclaration du hostname avant de démarrer l'interface réseau pour éviter que la carte soit nommée "default".
 *v01.01.00*
  - Prise en compte du mode setup opérateur même si le MultiRemote vient de redémarrer.
  - Correction de la fuite mémoire sur le serveur opcua, lorsqu'une connexion se termine anormalement ou que le câble réseau est débranché.
