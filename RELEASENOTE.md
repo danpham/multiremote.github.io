@@ -29,31 +29,31 @@ https://www.hautehorlogerie.org/fr/watches-and-culture/encyclopedie/horlogers-ce
 
 # Historique de version
 ## Paquetages
-|Nom du paquetage | Version du paquetage | Version ESP32 | Version STM32 | Version LCD |
-|---|---|---|---|---|
-|Copernic - bugfix 1|v01.01.01| v01.01.01| v01.01.00|v01.01.00|
-|Copernic|v01.01.00| v01.01.00| v01.01.00|v01.01.00|
+|Nom du paquetage | Version du paquetage | Date | Version ESP32 | Version STM32 | Version LCD |
+|---|---|---|---|---|---|
+|Copernic - bugfix 1 | v01.01.01| 21.11.2023 | v01.01.01| v01.01.00|v01.01.00|
+|Copernic|v01.01.00| v01.01.00| 09.10.2023 | v01.01.00|v01.01.00|
 
 
 ## ESP32
-*v01.01.01*
+*v01.01.01*, date : 21.11.2023
  - Corrige la taille incorrecte du buffer stockant le hostname.
  - Déclaration du hostname avant de démarrer l'interface réseau pour éviter que la carte soit nommée "default".
 
-*v01.01.00*
+*v01.01.00*, date : 09.10.2023
  - Prise en compte du mode setup opérateur même si le MultiRemote vient de redémarrer.
  - Correction de la fuite mémoire sur le serveur opcua, lorsqu'une connexion se termine anormalement ou que le câble réseau est débranché.
  - Affichage de l'heure de démarrage correcte dans les données du serveur opcua.
  - Optimisation de la RAM pour disposer de 6 sessions opcua en parallèle contre 3 auparavant.
 
 ## STM32
-*v01.01.00*
+*v01.01.00*, date : 09.10.2023
  - Ajout du mode échantillonnage, continu, détection des nouvelles barres.
  - Correction du calcul de la moyenne glissante pour les statistiques des pièces.
  - Corrections pour enregistrer le temps de setup opérateur.
 
 ## LCD
-*v01.01.00*
+*v01.01.00*, date : 09.10.2023
 - Mode Continu ajouté pour le nombrage du carrousel.
 - Enregistrement et lecture des temps de setup opérateur sur la carte SD corrigé.
 - Affichage de l'heure avec les secondes sur l'écran principal.
