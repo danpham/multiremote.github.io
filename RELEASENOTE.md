@@ -32,7 +32,7 @@ https://www.hautehorlogerie.org/fr/watches-and-culture/encyclopedie/horlogers-ce
 |Nom du paquetage | Version du paquetage | Date | Version ESP32 | Version STM32 | Version LCD |
 |---|---|---|---|---|---|
 |Copernic - bugfix 1 | v01.01.01| 21.11.2023 | v01.01.01| v01.01.00|v01.01.00|
-|Copernic|v01.01.00| v01.01.00| 09.10.2023 | v01.01.00|v01.01.00|
+|Copernic | v01.01.00 | 09.10.2023 | v01.01.00 | v01.01.00|v01.01.00|
 
 
 ## ESP32
