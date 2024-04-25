@@ -45,4 +45,4 @@ Listing projet MultiRemote et MultiVario
 - Schéma du faisceau de câble
 - Schéma de câblage
 - Liste des fournisseurs
-- Stock de boitiers, de faisceaux de câbles, de capteurs déjà disponibles
+- Stock de boitiers, d'overlay écrans, de faisceaux de câbles, de capteurs déjà disponibles
