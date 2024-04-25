@@ -13,6 +13,7 @@ Listing projet MultiRemote et MultiVario
 - Spécification de l'architecture logicielle
 - Document d'implémentation / design logiciel
 - Sources : accès GitHub
+- Fiches de tests et PVs de tests
 - Gestionnaire de bugs : accès GitHub
 - Sondes de programmations :
     - Sonde IAR Systems I-Jet (Seulement pour MultiRemote)
@@ -27,7 +28,8 @@ Listing projet MultiRemote et MultiVario
     - MCUXpresso IDE v11.4.1
     - STM32Cube Development Software
     - ESP-IDF
-
+- Manuel utilisateur du produit
+ 
 # Partie électronique
 - Schéma électrique
 - Schéma PCB
