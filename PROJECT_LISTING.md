@@ -28,7 +28,7 @@ Listing projet MultiRemote et MultiVario
       [Lien explicant les différentes versions](https://updates.iar.com/SuppDB/Public/UPDINFO/006179/arm/doc/infocenter/product_packages.ENU.html)
 - Logiciels de développement spécifiques MultiVario :
     - MCUXpresso IDE v11.4.1 : Disponible sans frais. [Site officiel NXP](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
-- Logiciels de développement communs /
+- Logiciels de développement communs :
     - STM32Cube Development Software : Disponible sans frais. [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
     - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Manuel utilisateur du produit
