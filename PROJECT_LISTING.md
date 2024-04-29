@@ -26,12 +26,12 @@ Listing projet MultiRemote et MultiVario
       Standard : 5995 USD. Baseline : 3395 USD.
       [Lien Mouser](https://www.mouser.com/catalog/catalogusd/645/2360.pdf)
       [Lien explicant les différetes versions](https://updates.iar.com/SuppDB/Public/UPDINFO/006179/arm/doc/infocenter/product_packages.ENU.html)
-    - STM32Cube Development Software : Disponible sans frais [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
-    - ESP-IDF : Disponible sans frais [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
+    - STM32Cube Development Software : Disponible sans frais. [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
+    - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Logiciels de développement MultiVario :
     - MCUXpresso IDE v11.4.1 : Disponible sans frais [Site officiel NXP](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
-    - STM32Cube Development Software : Disponible sans frais [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
-    - ESP-IDF : Disponible sans frais [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
+    - STM32Cube Development Software : Disponible sans frais. [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
+    - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Manuel utilisateur du produit
  
 # Partie électronique
