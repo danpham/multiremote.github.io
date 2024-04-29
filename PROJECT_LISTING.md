@@ -14,20 +14,23 @@ Listing projet MultiRemote et MultiVario
 - Document d'implémentation / design logiciel
 - Sources : accès GitHub
 - Fiches de tests et PVs de tests
-- Gestionnaire de bugs : accès GitHub
+- Gestionnaire de bugs : accès GitHub. Prix 20 CHF/mois [Lien GitHub](https://github.com/pricing)
 - Sondes de programmations :
-    - Sonde IAR Systems I-Jet (Seulement pour MultiRemote)
+    - Sonde IAR Systems I-Jet (Seulement pour MultiRemote). Prix 648 CHF [Lien DigiKey](https://github.com/pricing)
     - Adaptateur USB To Uart 5V/3V3
-    - Sonde STLINK-V3SET
+    - Sonde STLINK-V3SET. Prix 31.85 CHF [Lien DigiKey](https://www.digikey.ch/fr/products/detail/stmicroelectronics/STLINK-V3SET/9636028)
     - PeMicro USB Multilinks (Seulement pour MultiVario)
 - Logiciels de développement MultiRemote :
-    - IAR Embedded Workbench for ARM 8.40.1 : ETA doit acheter une license doit être achetée auprès d'IAR (Seulement pour MultiRemote)
-    - STM32Cube Development Software : Disponible sans frais
-    - ESP-IDF : https://www.espressif.com/en/products/sdks/esp-idf
+    - IAR Embedded Workbench for ARM 8.40.1 : (Seulement pour MultiRemote)
+      Il existe deux versions Standard et Baseline, la différence se fait essentiellement sur la taille du code compilé. (Baseline < 256 kB code compilé).
+      Standard : 5995 USD. Baseline : 3395 USD.
+      [Lien Mouser](https://www.mouser.com/catalog/catalogusd/645/2360.pdf)
+    - STM32Cube Development Software : Disponible sans frais [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
+    - ESP-IDF : [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Logiciels de développement MultiVario :
-    - MCUXpresso IDE v11.4.1
-    - STM32Cube Development Software
-    - ESP-IDF
+    - MCUXpresso IDE v11.4.1 : Disponible sans frais [Site officiel NXP](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
+    - STM32Cube Development Software : Disponible sans frais [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
+    - ESP-IDF : [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Manuel utilisateur du produit
  
 # Partie électronique
