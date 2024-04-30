@@ -16,11 +16,10 @@ Listing projet MultiRemote
 - Fiches de tests et PVs de tests
 - Gestionnaire de bugs : accès GitHub. Prix 20 CHF/mois. [Lien GitHub](https://github.com/pricing)
 - Sondes de programmations :
-    - Sonde IAR Systems I-Jet (Seulement pour MultiRemote). Prix 648 CHF [Lien DigiKey](https://github.com/pricing)
+    - Sonde IAR Systems I-Jet. Prix 648 CHF [Lien DigiKey](https://github.com/pricing)
     - Adaptateur USB To Uart 5V/3V3. Prix 7.95 USD. [Lien constructeur](https://www.seeedstudio.com/USB-To-Uart-5V-3V3-p-1832.html)
     - Sonde STLINK-V3SET. Prix 31.85 CHF. [Lien DigiKey](https://www.digikey.ch/fr/products/detail/stmicroelectronics/STLINK-V3SET/9636028)
-    - PeMicro USB Multilinks (Seulement pour MultiVario)
-- Logiciels de développement spécifiques MultiRemote :
+- Logiciels de développement :
     - IAR Embedded Workbench for ARM 8.40.1 : EWARM-CM 3890 €.
     - STM32Cube Development Software : Disponible sans frais. [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
     - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
