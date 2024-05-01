@@ -23,7 +23,7 @@ Listing projet MultiRemote
     - IAR Embedded Workbench for ARM 8.40.1 : EWARM-CM 3890 €.
     - STM32Cube Development Software : Disponible sans frais. [Site officiel ST](https://www.st.com/en/ecosystems/stm32cube.html)
     - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
-- Environement de test :
+- Environnement de test :
     - Raspberry Pi 4 B. [Lien DigiKey](https://www.digikey.ch/fr/products/detail/raspberry-pi/SC0195-9/12159401)
     - Switch Ethernet 5 ports. [Lien MediaMarkt](https://www.mediamarkt.ch/fr/product/_netgear-prosafe-gs105-5-port-gigabit-desktop-switch-3402651.html)
 - Manuel utilisateur du produit
