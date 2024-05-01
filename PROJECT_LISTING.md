@@ -25,7 +25,7 @@ Listing projet MultiRemote
     - ESP-IDF : Disponible sans frais. [Site officiel Espressif](https://www.espressif.com/en/products/sdks/esp-idf)
 - Environement de test :
     - Raspberry Pi 4 B. [Lien DigiKey](https://www.digikey.ch/fr/products/detail/raspberry-pi/SC0195-9/12159401)
-    - Switch Ethernet 4 ports. [Lien MediaMarkt](https://www.mediamarkt.ch/fr/product/_netgear-prosafe-gs105-5-port-gigabit-desktop-switch-3402651.html)
+    - Switch Ethernet 5 ports. [Lien MediaMarkt](https://www.mediamarkt.ch/fr/product/_netgear-prosafe-gs105-5-port-gigabit-desktop-switch-3402651.html)
 - Manuel utilisateur du produit
  
 # Partie électronique
